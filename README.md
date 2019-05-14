@@ -1,0 +1,2 @@
+# ORION-MODULE-Quantization-Recomposition-of-Biological-Lattice-Structures
+Biological Entities are always changing, growing and decaying. Just as in the binary code for a computer software program, the current state of a biological entity has a total number, or a string of numbers that details every portion of body including living cells, organs, tissue and brain mater (dendrites and neurons). This total number can is output as a very specific field, vibration or resonance. 
